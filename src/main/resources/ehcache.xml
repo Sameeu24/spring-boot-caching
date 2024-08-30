@@ -12,6 +12,7 @@
         <expiry>
             <ttl unit="seconds">10000</ttl>
         </expiry>
+
         <listeners>
             <listener>
                 <class>com.ust.springbootcaching.config.CustomCacheEventLogger</class>
